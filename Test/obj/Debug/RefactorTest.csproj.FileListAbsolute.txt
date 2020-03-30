@@ -1,0 +1,6 @@
+C:\Users\jose.vivo\source\repos\TestApp\Test\bin\Debug\Test.exe.config
+C:\Users\jose.vivo\source\repos\TestApp\Test\bin\Debug\Test.exe
+C:\Users\jose.vivo\source\repos\TestApp\Test\bin\Debug\Test.pdb
+C:\Users\jose.vivo\source\repos\TestApp\Test\obj\Debug\RefactorTest.csproj.CoreCompileInputs.cache
+C:\Users\jose.vivo\source\repos\TestApp\Test\obj\Debug\Test.exe
+C:\Users\jose.vivo\source\repos\TestApp\Test\obj\Debug\Test.pdb

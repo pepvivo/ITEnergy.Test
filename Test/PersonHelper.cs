@@ -30,18 +30,4 @@ namespace Test
             return null;
         }
     }
-
-    public enum CustomerType
-    {
-        New = 1,
-        Existing = 2,
-        Archived = 3
-    }
-
-    public enum StaffMemberType
-    {
-        New = 1,
-        Existing = 2,
-        Archived = 3
-    }
 }
